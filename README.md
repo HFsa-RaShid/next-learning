@@ -1,4 +1,3 @@
-route mane segment
 
 + File and folder structure
 + Basic Routing Concept
