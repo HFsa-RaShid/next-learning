@@ -25,6 +25,9 @@ export default function RootLayout({ children }) {
       >
         <Navbar></Navbar>
         {children}
+        <footer className="text-center p-4 bg-black text-white mt-4">
+          <p>© 2025 Nextjs-Learning. All rights reserved.</p>
+        </footer>
       </body>
     </html>
   );
